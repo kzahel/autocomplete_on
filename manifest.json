@@ -8,8 +8,7 @@
    "icons": {
       "32": "icon32.png"
    },
-   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCsfmAIIcc5T1c1t07xmFqfCVj2NeB3yN4OOSasYVxQQSIJ5j5AdW1TQnzMBzk7PHO+dOiqxSUaIXbz1S4drT0xQ2IrEdEEVhzff+tbVVOiaBHCtp3uHlIf0Nc6xZfJ89eOcTB5p3qgLFPrGHU6aA7J9gaAMHFGEDky0nMkub4b6wIDAQAB",
-   "name": "Autocomplete = on",
-   "update_url": "http://clients2.google.com/service/update2/crx",
-   "version": "1.0"
+   "name": "Autocomplete on",
+   "version": "1.0",
+    "manifest_version": 2
 }
